@@ -1,4 +1,4 @@
 gitskills
 =========
-reating a new branch is quick.
+reating a new branch is quick AND simple.
 
